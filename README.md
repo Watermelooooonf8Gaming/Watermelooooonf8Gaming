@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Watermelooooonf8Gaming
+- 👋 Hi, I’m @illyum
 - 👀 I’m interested in minecraft 
 - 🌱 I’m currently learning javascript, java, python
 - 💞️ I’m looking to collaborate on a Minecraft Server
